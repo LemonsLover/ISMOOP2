@@ -1,0 +1,6 @@
+C:\Users\dizon\source\repos\OOP2\MyClassLibraryForOOP2\bin\Debug\MyClassLibraryForOOP2.dll
+C:\Users\dizon\source\repos\OOP2\MyClassLibraryForOOP2\bin\Debug\MyClassLibraryForOOP2.pdb
+C:\Users\dizon\source\repos\OOP2\MyClassLibraryForOOP2\obj\Debug\MyClassLibraryForOOP2.csprojAssemblyReference.cache
+C:\Users\dizon\source\repos\OOP2\MyClassLibraryForOOP2\obj\Debug\MyClassLibraryForOOP2.csproj.CoreCompileInputs.cache
+C:\Users\dizon\source\repos\OOP2\MyClassLibraryForOOP2\obj\Debug\MyClassLibraryForOOP2.dll
+C:\Users\dizon\source\repos\OOP2\MyClassLibraryForOOP2\obj\Debug\MyClassLibraryForOOP2.pdb
