@@ -59,7 +59,7 @@ namespace MyClassLibraryForOOP2
             return DateOfBirth;
         }
         //methods
-        public string ShowInfo()
+        public virtual string ShowInfo()
         {
             return $"{LastName} {Name} was born on {DateOfBirth}.";
         }

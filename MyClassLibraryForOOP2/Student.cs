@@ -90,7 +90,7 @@ namespace MyClassLibraryForOOP2
         }
 
         //methods
-        public new string ShowInfo()
+        public override string ShowInfo()
         {
             return $"{LastName} {Name} was born on {DateOfBirth}.\n" +
                 $"Studied at {GetSchoolName()} with {GetSchoolMark()} as a result mark.\n" +

@@ -81,7 +81,7 @@ namespace MyClassLibraryForOOP2
         }
 
         //methods
-        public new string ShowInfo()
+        public override string ShowInfo()
         {
             return $"{LastName} {Name} was born on {DateOfBirth}.\n" +
                 $"User of the library since {DateOfIssue} and pay {LibraryFee} UAH a mounth, " +
